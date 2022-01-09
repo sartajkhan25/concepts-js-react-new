@@ -1,0 +1,6 @@
+Finding:
+
+Performance:
+1. If import any js file and dont use that then code still executes of that imported file.
+
+
